@@ -1,0 +1,81 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Visual Studio 2019/2022
+.vs/
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of PackageReference
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# File-based SQL databases
+*.mdf
+*.ldf
+*.ndf
+
+# Azure build pipeline
+*.azure-pipelines.yml
+
+# IIS Express
+/.vs/
+*.vspscc
+*.vssscc
+
+# Docker
+docker-compose.override.yml
+.env
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NCrunch
+*.ncrunchproject
+*.ncrunchsolution
+*.ncrunch*
+*.vshost.*
+
+# Backup & temporary files
+*.bak
+*.tmp
+~$*

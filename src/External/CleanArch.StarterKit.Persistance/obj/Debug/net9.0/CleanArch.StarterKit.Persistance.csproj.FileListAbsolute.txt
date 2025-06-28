@@ -17,3 +17,4 @@ C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Pers
 C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Persistance\obj\Debug\net9.0\ref\CleanArch.StarterKit.Persistance.dll
 C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Persistance\bin\Debug\net9.0\CleanArch.StarterKit.Application.dll
 C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Persistance\bin\Debug\net9.0\CleanArch.StarterKit.Application.pdb
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Persistance\obj\Debug\net9.0\CleanArch.StarterKit.Persistance.sourcelink.json

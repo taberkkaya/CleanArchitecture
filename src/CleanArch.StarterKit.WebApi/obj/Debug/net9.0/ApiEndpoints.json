@@ -1,6 +1,16 @@
 [
   {
     "ContainingType": "CleanArch.StarterKit.Presentation.Controllers.ExamplesController",
+    "Method": "Calculate",
+    "RelativePath": "api/Examples/Calculate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArch.StarterKit.Presentation.Controllers.ExamplesController",
     "Method": "Create",
     "RelativePath": "api/Examples/Create",
     "HttpMethod": "POST",

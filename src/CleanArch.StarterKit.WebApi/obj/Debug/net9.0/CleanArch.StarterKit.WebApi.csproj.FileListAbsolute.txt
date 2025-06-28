@@ -180,3 +180,5 @@ C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\bin\De
 C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\bin\Debug\net9.0\FluentValidation.dll
 C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\obj\Debug\net9.0\CleanArch.StarterKit.WebApi.sourcelink.json

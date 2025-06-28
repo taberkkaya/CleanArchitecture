@@ -2,6 +2,7 @@ using CleanArch.StarterKit.Application.Behaviors;
 using CleanArch.StarterKit.Application.Services;
 using CleanArch.StarterKit.Persistance.Context;
 using CleanArch.StarterKit.Persistance.Services;
+using CleanArch.StarterKit.WebApi.Middleware;
 using FluentValidation;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -9,6 +10,8 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddScoped<IExampleService,ExampleService>();
+
+builder.Services.AddTransient<ExceptionMiddleware>();
 
 builder.Services.AddAutoMapper(typeof(CleanArch.StarterKit.Persistance.AssemblyReference).Assembly);
 
@@ -43,6 +46,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseMiddlewareExtensions();
 
 app.UseHttpsRedirection();
 

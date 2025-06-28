@@ -15,3 +15,4 @@ C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Pres
 C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\bin\Debug\net9.0\CleanArch.StarterKit.Application.pdb
 C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\bin\Debug\net9.0\CleanArch.StarterKit.Domain.pdb
 C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\obj\Debug\net9.0\CleanArc.F8B8B08C.Up2Date
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\obj\Debug\net9.0\CleanArch.StarterKit.Presentation.sourcelink.json

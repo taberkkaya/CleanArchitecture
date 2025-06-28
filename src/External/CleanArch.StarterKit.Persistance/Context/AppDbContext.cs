@@ -8,6 +8,8 @@ public sealed class AppDbContext : DbContext
     public AppDbContext(DbContextOptions options) : base(options) { }
 
     public DbSet<Example> Examples { get; set; }
+    public DbSet<ErrorLog> ErrorLogs { get; set; }
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.ApplyConfigurationsFromAssembly(AssemblyReference.Assembly);

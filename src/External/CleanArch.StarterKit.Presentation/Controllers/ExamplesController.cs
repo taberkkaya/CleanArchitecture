@@ -16,5 +16,4 @@ public class ExamplesController : ApiController
         var response = await _mediator.Send(request, cancellationToken);
         return Ok(response);
     }
-
 }
