@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\ProjectCollection\\CleanArch.StarterKit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D66E84E-E6AE-4BEE-8670-2E5C7E783E01}|src\\CleanArch.StarterKit.WebApi\\CleanArch.StarterKit.WebApi.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\cleanarch.starterkit.webapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D66E84E-E6AE-4BEE-8670-2E5C7E783E01}|src\\CleanArch.StarterKit.WebApi\\CleanArch.StarterKit.WebApi.csproj|solutionrelative:src\\cleanarch.starterkit.webapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D68EDE75-508B-44DD-813A-4D4EF47896B7}|test\\CleanArch.StarterKit.UnitTest\\CleanArch.StarterKit.UnitTest.csproj|c:\\projectcollection\\cleanarch.starterkit\\test\\cleanarch.starterkit.unittest\\examplecontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68EDE75-508B-44DD-813A-4D4EF47896B7}|test\\CleanArch.StarterKit.UnitTest\\CleanArch.StarterKit.UnitTest.csproj|solutionrelative:test\\cleanarch.starterkit.unittest\\examplecontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Migrations\\20250628230411_mig_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\External\\CleanArch.StarterKit.Persistance\\Migrations\\20250628230411_mig_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7364E4C-65E9-418D-A944-55D893D65527}|src\\External\\CleanArch.StarterKit.Persistance\\CleanArch.StarterKit.Persistance.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\external\\cleanarch.starterkit.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7364E4C-65E9-418D-A944-55D893D65527}|src\\External\\CleanArch.StarterKit.Persistance\\CleanArch.StarterKit.Persistance.csproj|solutionrelative:src\\external\\cleanarch.starterkit.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Migrations\\20250628230353_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\External\\CleanArch.StarterKit.Persistance\\Migrations\\20250628230353_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7364E4C-65E9-418D-A944-55D893D65527}|src\\External\\CleanArch.StarterKit.Persistance\\CleanArch.StarterKit.Persistance.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\external\\cleanarch.starterkit.persistance\\configurations\\errorlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7364E4C-65E9-418D-A944-55D893D65527}|src\\External\\CleanArch.StarterKit.Persistance\\CleanArch.StarterKit.Persistance.csproj|solutionrelative:src\\external\\cleanarch.starterkit.persistance\\configurations\\errorlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E538B898-797D-48C9-B256-9FEEFD9F67F0}|src\\Core\\CleanArch.StarterKit.Domain\\CleanArch.StarterKit.Domain.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\core\\cleanarch.starterkit.domain\\entities\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E538B898-797D-48C9-B256-9FEEFD9F67F0}|src\\Core\\CleanArch.StarterKit.Domain\\CleanArch.StarterKit.Domain.csproj|solutionrelative:src\\core\\cleanarch.starterkit.domain\\entities\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3EED5A0-69E0-4058-82AE-C88725C23E49}|src\\External\\CleanArch.StarterKit.Presentation\\CleanArch.StarterKit.Presentation.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\external\\cleanarch.starterkit.presentation\\controllers\\examplescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EED5A0-69E0-4058-82AE-C88725C23E49}|src\\External\\CleanArch.StarterKit.Presentation\\CleanArch.StarterKit.Presentation.csproj|solutionrelative:src\\external\\cleanarch.starterkit.presentation\\controllers\\examplescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,79 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20250628230411_mig_2.cs",
-              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Migrations\\20250628230411_mig_2.cs",
-              "RelativeDocumentMoniker": "src\\External\\CleanArch.StarterKit.Persistance\\Migrations\\20250628230411_mig_2.cs",
-              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Migrations\\20250628230411_mig_2.cs",
-              "RelativeToolTip": "src\\External\\CleanArch.StarterKit.Persistance\\Migrations\\20250628230411_mig_2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ExamplesController.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Presentation\\Controllers\\ExamplesController.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArch.StarterKit.Presentation\\Controllers\\ExamplesController.cs",
+              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Presentation\\Controllers\\ExamplesController.cs",
+              "RelativeToolTip": "src\\External\\CleanArch.StarterKit.Presentation\\Controllers\\ExamplesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T23:04:11.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "src\\External\\CleanArch.StarterKit.Persistance\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "src\\External\\CleanArch.StarterKit.Persistance\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T23:03:59.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250628230353_mig_1.cs",
-              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Migrations\\20250628230353_mig_1.cs",
-              "RelativeDocumentMoniker": "src\\External\\CleanArch.StarterKit.Persistance\\Migrations\\20250628230353_mig_1.cs",
-              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Migrations\\20250628230353_mig_1.cs",
-              "RelativeToolTip": "src\\External\\CleanArch.StarterKit.Persistance\\Migrations\\20250628230353_mig_1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T23:03:53.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ErrorLogConfiguration.cs",
-              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Configurations\\ErrorLogConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\External\\CleanArch.StarterKit.Persistance\\Configurations\\ErrorLogConfiguration.cs",
-              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Configurations\\ErrorLogConfiguration.cs",
-              "RelativeToolTip": "src\\External\\CleanArch.StarterKit.Persistance\\Configurations\\ErrorLogConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T23:03:08.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ErrorLog.cs",
-              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\Core\\CleanArch.StarterKit.Domain\\Entities\\ErrorLog.cs",
-              "RelativeDocumentMoniker": "src\\Core\\CleanArch.StarterKit.Domain\\Entities\\ErrorLog.cs",
-              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\Core\\CleanArch.StarterKit.Domain\\Entities\\ErrorLog.cs",
-              "RelativeToolTip": "src\\Core\\CleanArch.StarterKit.Domain\\Entities\\ErrorLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T23:01:47.587Z",
+              "WhenOpened": "2025-06-28T23:13:00.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\CleanArch.StarterKit.WebApi\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "src\\CleanArch.StarterKit.WebApi\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\CleanArch.StarterKit.WebApi\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "src\\CleanArch.StarterKit.WebApi\\Middleware\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Title": "ExampleControllerUnitTest.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\test\\CleanArch.StarterKit.UnitTest\\ExampleControllerUnitTest.cs",
+              "RelativeDocumentMoniker": "test\\CleanArch.StarterKit.UnitTest\\ExampleControllerUnitTest.cs",
+              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\test\\CleanArch.StarterKit.UnitTest\\ExampleControllerUnitTest.cs",
+              "RelativeToolTip": "test\\CleanArch.StarterKit.UnitTest\\ExampleControllerUnitTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T23:00:30.591Z",
+              "WhenOpened": "2025-06-28T23:11:37.39Z",
               "EditorCaption": ""
             }
           ]

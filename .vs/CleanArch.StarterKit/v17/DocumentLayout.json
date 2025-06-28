@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\ProjectCollection\\CleanArch.StarterKit\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D68EDE75-508B-44DD-813A-4D4EF47896B7}|test\\CleanArch.StarterKit.UnitTest\\CleanArch.StarterKit.UnitTest.csproj|c:\\projectcollection\\cleanarch.starterkit\\test\\cleanarch.starterkit.unittest\\examplecontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68EDE75-508B-44DD-813A-4D4EF47896B7}|test\\CleanArch.StarterKit.UnitTest\\CleanArch.StarterKit.UnitTest.csproj|solutionrelative:test\\cleanarch.starterkit.unittest\\examplecontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3EED5A0-69E0-4058-82AE-C88725C23E49}|src\\External\\CleanArch.StarterKit.Presentation\\CleanArch.StarterKit.Presentation.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\external\\cleanarch.starterkit.presentation\\controllers\\examplescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3EED5A0-69E0-4058-82AE-C88725C23E49}|src\\External\\CleanArch.StarterKit.Presentation\\CleanArch.StarterKit.Presentation.csproj|solutionrelative:src\\external\\cleanarch.starterkit.presentation\\controllers\\examplescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExamplesController.cs",
-              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Presentation\\Controllers\\ExamplesController.cs",
-              "RelativeDocumentMoniker": "src\\External\\CleanArch.StarterKit.Presentation\\Controllers\\ExamplesController.cs",
-              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Presentation\\Controllers\\ExamplesController.cs",
-              "RelativeToolTip": "src\\External\\CleanArch.StarterKit.Presentation\\Controllers\\ExamplesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T23:13:00.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExampleControllerUnitTest.cs",
-              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\test\\CleanArch.StarterKit.UnitTest\\ExampleControllerUnitTest.cs",
-              "RelativeDocumentMoniker": "test\\CleanArch.StarterKit.UnitTest\\ExampleControllerUnitTest.cs",
-              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\test\\CleanArch.StarterKit.UnitTest\\ExampleControllerUnitTest.cs",
-              "RelativeToolTip": "test\\CleanArch.StarterKit.UnitTest\\ExampleControllerUnitTest.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T23:11:37.39Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -62,7 +62,7 @@ dotnet run
 6. The API will be available at:
 
 ```bash
-https://localhost:5001/swagger
+https://localhost:7296/swagger
 ```
 
 ## 📚 Learning Resources
