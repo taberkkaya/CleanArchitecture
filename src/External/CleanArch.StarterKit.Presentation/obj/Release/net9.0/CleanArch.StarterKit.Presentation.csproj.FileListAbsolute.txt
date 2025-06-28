@@ -1,0 +1,17 @@
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\bin\Release\net9.0\CleanArch.StarterKit.Presentation.deps.json
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\bin\Release\net9.0\CleanArch.StarterKit.Presentation.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\bin\Release\net9.0\CleanArch.StarterKit.Presentation.pdb
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\bin\Release\net9.0\CleanArch.StarterKit.Application.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\bin\Release\net9.0\CleanArch.StarterKit.Domain.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\bin\Release\net9.0\CleanArch.StarterKit.Application.pdb
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\bin\Release\net9.0\CleanArch.StarterKit.Domain.pdb
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\obj\Release\net9.0\CleanArch.StarterKit.Presentation.csproj.AssemblyReference.cache
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\obj\Release\net9.0\CleanArch.StarterKit.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\obj\Release\net9.0\CleanArch.StarterKit.Presentation.AssemblyInfoInputs.cache
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\obj\Release\net9.0\CleanArch.StarterKit.Presentation.AssemblyInfo.cs
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\obj\Release\net9.0\CleanArch.StarterKit.Presentation.csproj.CoreCompileInputs.cache
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\obj\Release\net9.0\CleanArc.F8B8B08C.Up2Date
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\obj\Release\net9.0\CleanArch.StarterKit.Presentation.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\obj\Release\net9.0\refint\CleanArch.StarterKit.Presentation.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\obj\Release\net9.0\CleanArch.StarterKit.Presentation.pdb
+C:\ProjectCollection\CleanArch.StarterKit\src\External\CleanArch.StarterKit.Presentation\obj\Release\net9.0\ref\CleanArch.StarterKit.Presentation.dll

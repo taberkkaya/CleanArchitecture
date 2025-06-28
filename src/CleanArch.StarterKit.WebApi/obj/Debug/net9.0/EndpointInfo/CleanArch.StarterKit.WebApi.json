@@ -1,0 +1,61 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "CleanArch.StarterKit.WebApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Examples/Create": {
+      "post": {
+        "tags": [
+          "Examples"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateExampleCommand"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateExampleCommand"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateExampleCommand"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CreateExampleCommand": {
+        "type": "object",
+        "properties": {
+          "value1": {
+            "type": "string",
+            "nullable": true
+          },
+          "value2": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "value3": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

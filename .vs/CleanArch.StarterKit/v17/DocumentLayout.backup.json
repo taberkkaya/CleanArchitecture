@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjectCollection\\CleanArch.StarterKit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D66E84E-E6AE-4BEE-8670-2E5C7E783E01}|src\\CleanArch.StarterKit.WebApi\\CleanArch.StarterKit.WebApi.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\cleanarch.starterkit.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D66E84E-E6AE-4BEE-8670-2E5C7E783E01}|src\\CleanArch.StarterKit.WebApi\\CleanArch.StarterKit.WebApi.csproj|solutionrelative:src\\cleanarch.starterkit.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC090A2-7227-4F9B-992A-1F7E36A57F14}|src\\Core\\CleanArch.StarterKit.Application\\CleanArch.StarterKit.Application.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\core\\cleanarch.starterkit.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC090A2-7227-4F9B-992A-1F7E36A57F14}|src\\Core\\CleanArch.StarterKit.Application\\CleanArch.StarterKit.Application.csproj|solutionrelative:src\\core\\cleanarch.starterkit.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\CleanArch.StarterKit.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CleanArch.StarterKit.WebApi\\Program.cs",
+              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\CleanArch.StarterKit.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\CleanArch.StarterKit.WebApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T20:17:23.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\Core\\CleanArch.StarterKit.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArch.StarterKit.Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\Core\\CleanArch.StarterKit.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "src\\Core\\CleanArch.StarterKit.Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T20:10:31.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

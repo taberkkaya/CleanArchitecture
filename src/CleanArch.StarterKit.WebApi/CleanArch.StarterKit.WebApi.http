@@ -1,0 +1,6 @@
+@CleanArch.StarterKit.WebApi_HostAddress = http://localhost:5229
+
+GET {{CleanArch.StarterKit.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

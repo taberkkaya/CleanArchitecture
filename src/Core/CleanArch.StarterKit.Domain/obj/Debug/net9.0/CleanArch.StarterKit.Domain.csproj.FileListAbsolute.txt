@@ -1,0 +1,11 @@
+C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\bin\Debug\net9.0\CleanArch.StarterKit.Domain.deps.json
+C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\bin\Debug\net9.0\CleanArch.StarterKit.Domain.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\bin\Debug\net9.0\CleanArch.StarterKit.Domain.pdb
+C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\obj\Debug\net9.0\CleanArch.StarterKit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\obj\Debug\net9.0\CleanArch.StarterKit.Domain.AssemblyInfoInputs.cache
+C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\obj\Debug\net9.0\CleanArch.StarterKit.Domain.AssemblyInfo.cs
+C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\obj\Debug\net9.0\CleanArch.StarterKit.Domain.csproj.CoreCompileInputs.cache
+C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\obj\Debug\net9.0\CleanArch.StarterKit.Domain.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\obj\Debug\net9.0\refint\CleanArch.StarterKit.Domain.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\obj\Debug\net9.0\CleanArch.StarterKit.Domain.pdb
+C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\obj\Debug\net9.0\ref\CleanArch.StarterKit.Domain.dll

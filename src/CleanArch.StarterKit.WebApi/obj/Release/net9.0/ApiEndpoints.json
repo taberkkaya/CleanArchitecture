@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CleanArch.StarterKit.Presentation.Controllers.ExamplesController",
+    "Method": "Create",
+    "RelativePath": "api/Examples/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArch.StarterKit.Application.Feature.Examples.Commands.CreateExample.CreateExampleCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

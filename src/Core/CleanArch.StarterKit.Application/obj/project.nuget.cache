@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "llfHVGNNoNo=",
+  "success": true,
+  "projectFilePath": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\Core\\CleanArch.StarterKit.Application\\CleanArch.StarterKit.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ataberk\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\ataberk\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\ataberk\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ataberk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
