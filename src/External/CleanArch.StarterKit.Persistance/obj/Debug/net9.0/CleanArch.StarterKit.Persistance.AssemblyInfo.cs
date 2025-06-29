@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArch.StarterKit.Persistance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acf96604231b2ad310eb501af1efd3565d9eabb1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f03f3d909656cd3784689bd10595c9b1b3e5a2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArch.StarterKit.Persistance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArch.StarterKit.Persistance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

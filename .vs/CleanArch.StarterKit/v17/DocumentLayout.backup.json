@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\ProjectCollection\\CleanArch.StarterKit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7364E4C-65E9-418D-A944-55D893D65527}|src\\External\\CleanArch.StarterKit.Persistance\\CleanArch.StarterKit.Persistance.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\external\\cleanarch.starterkit.persistance\\repositories\\examplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7364E4C-65E9-418D-A944-55D893D65527}|src\\External\\CleanArch.StarterKit.Persistance\\CleanArch.StarterKit.Persistance.csproj|solutionrelative:src\\external\\cleanarch.starterkit.persistance\\repositories\\examplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D66E84E-E6AE-4BEE-8670-2E5C7E783E01}|src\\CleanArch.StarterKit.WebApi\\CleanArch.StarterKit.WebApi.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\cleanarch.starterkit.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D66E84E-E6AE-4BEE-8670-2E5C7E783E01}|src\\CleanArch.StarterKit.WebApi\\CleanArch.StarterKit.WebApi.csproj|solutionrelative:src\\cleanarch.starterkit.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7364E4C-65E9-418D-A944-55D893D65527}|src\\External\\CleanArch.StarterKit.Persistance\\CleanArch.StarterKit.Persistance.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\external\\cleanarch.starterkit.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7364E4C-65E9-418D-A944-55D893D65527}|src\\External\\CleanArch.StarterKit.Persistance\\CleanArch.StarterKit.Persistance.csproj|solutionrelative:src\\external\\cleanarch.starterkit.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E538B898-797D-48C9-B256-9FEEFD9F67F0}|src\\Core\\CleanArch.StarterKit.Domain\\CleanArch.StarterKit.Domain.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\core\\cleanarch.starterkit.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E538B898-797D-48C9-B256-9FEEFD9F67F0}|src\\Core\\CleanArch.StarterKit.Domain\\CleanArch.StarterKit.Domain.csproj|solutionrelative:src\\core\\cleanarch.starterkit.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E538B898-797D-48C9-B256-9FEEFD9F67F0}|src\\Core\\CleanArch.StarterKit.Domain\\CleanArch.StarterKit.Domain.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\core\\cleanarch.starterkit.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E538B898-797D-48C9-B256-9FEEFD9F67F0}|src\\Core\\CleanArch.StarterKit.Domain\\CleanArch.StarterKit.Domain.csproj|solutionrelative:src\\core\\cleanarch.starterkit.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7364E4C-65E9-418D-A944-55D893D65527}|src\\External\\CleanArch.StarterKit.Persistance\\CleanArch.StarterKit.Persistance.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\external\\cleanarch.starterkit.persistance\\services\\exampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7364E4C-65E9-418D-A944-55D893D65527}|src\\External\\CleanArch.StarterKit.Persistance\\CleanArch.StarterKit.Persistance.csproj|solutionrelative:src\\external\\cleanarch.starterkit.persistance\\services\\exampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC090A2-7227-4F9B-992A-1F7E36A57F14}|src\\Core\\CleanArch.StarterKit.Application\\CleanArch.StarterKit.Application.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\core\\cleanarch.starterkit.application\\feature\\examples\\queries\\getallexample\\getallexamplequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC090A2-7227-4F9B-992A-1F7E36A57F14}|src\\Core\\CleanArch.StarterKit.Application\\CleanArch.StarterKit.Application.csproj|solutionrelative:src\\core\\cleanarch.starterkit.application\\feature\\examples\\queries\\getallexample\\getallexamplequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7364E4C-65E9-418D-A944-55D893D65527}|src\\External\\CleanArch.StarterKit.Persistance\\CleanArch.StarterKit.Persistance.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\external\\cleanarch.starterkit.persistance\\configurations\\exampleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7364E4C-65E9-418D-A944-55D893D65527}|src\\External\\CleanArch.StarterKit.Persistance\\CleanArch.StarterKit.Persistance.csproj|solutionrelative:src\\external\\cleanarch.starterkit.persistance\\configurations\\exampleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +47,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExampleRepository.cs",
-              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Repositories\\ExampleRepository.cs",
-              "RelativeDocumentMoniker": "src\\External\\CleanArch.StarterKit.Persistance\\Repositories\\ExampleRepository.cs",
-              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Repositories\\ExampleRepository.cs",
-              "RelativeToolTip": "src\\External\\CleanArch.StarterKit.Persistance\\Repositories\\ExampleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABdAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\CleanArch.StarterKit.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CleanArch.StarterKit.WebApi\\Program.cs",
+              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\CleanArch.StarterKit.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\CleanArch.StarterKit.WebApi\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T13:18:23.966Z",
+              "WhenOpened": "2025-06-29T13:55:29.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArch.StarterKit.Persistance\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "src\\External\\CleanArch.StarterKit.Persistance\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:55:04.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\Core\\CleanArch.StarterKit.Domain\\Abstractions\\Entity.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArch.StarterKit.Domain\\Abstractions\\Entity.cs",
+              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\Core\\CleanArch.StarterKit.Domain\\Abstractions\\Entity.cs",
+              "RelativeToolTip": "src\\Core\\CleanArch.StarterKit.Domain\\Abstractions\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:54:05.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\Core\\CleanArch.StarterKit.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArch.StarterKit.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\Core\\CleanArch.StarterKit.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "src\\Core\\CleanArch.StarterKit.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:53:34.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExampleService.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Services\\ExampleService.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArch.StarterKit.Persistance\\Services\\ExampleService.cs",
+              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Services\\ExampleService.cs",
+              "RelativeToolTip": "src\\External\\CleanArch.StarterKit.Persistance\\Services\\ExampleService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADgvzAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:18:06.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllExampleQuery.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\Core\\CleanArch.StarterKit.Application\\Feature\\Examples\\Queries\\GetAllExample\\GetAllExampleQuery.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArch.StarterKit.Application\\Feature\\Examples\\Queries\\GetAllExample\\GetAllExampleQuery.cs",
+              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\Core\\CleanArch.StarterKit.Application\\Feature\\Examples\\Queries\\GetAllExample\\GetAllExampleQuery.cs",
+              "RelativeToolTip": "src\\Core\\CleanArch.StarterKit.Application\\Feature\\Examples\\Queries\\GetAllExample\\GetAllExampleQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:47:25.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExampleConfiguration.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Configurations\\ExampleConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArch.StarterKit.Persistance\\Configurations\\ExampleConfiguration.cs",
+              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Configurations\\ExampleConfiguration.cs",
+              "RelativeToolTip": "src\\External\\CleanArch.StarterKit.Persistance\\Configurations\\ExampleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:46:23.004Z",
               "EditorCaption": ""
             }
           ]

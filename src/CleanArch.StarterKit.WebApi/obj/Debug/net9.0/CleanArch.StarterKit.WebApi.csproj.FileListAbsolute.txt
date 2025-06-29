@@ -183,3 +183,8 @@ C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\bin\De
 C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\obj\Debug\net9.0\CleanArch.StarterKit.WebApi.sourcelink.json
 C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\bin\Debug\net9.0\GenericRepository.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\ProjectCollection\CleanArch.StarterKit\src\CleanArch.StarterKit.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll

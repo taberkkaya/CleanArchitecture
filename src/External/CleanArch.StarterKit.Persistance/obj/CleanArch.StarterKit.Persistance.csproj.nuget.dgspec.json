@@ -130,6 +130,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
             "TS.EntityFrameworkCore.GenericRepository": {
               "target": "Package",
               "version": "[9.0.1, )"
@@ -211,6 +215,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
             },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",

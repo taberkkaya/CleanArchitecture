@@ -3,7 +3,12 @@ using CleanArch.StarterKit.Domain.Entities;
 using MediatR;
 
 namespace CleanArch.StarterKit.Application.Feature.Examples.Queries.GetAllExample;
-public sealed record GetAllExampleQuery() : IRequest<IList<Example>>;
+public sealed record GetAllExampleQuery(
+    //int PageNumber = 1,
+    //int PageSize = 10,
+    //string Search = ""
+    )
+    : IRequest<IList<Example>>;
 
 internal sealed class GetAllExampleQueryHandler : IRequestHandler<GetAllExampleQuery, IList<Example>>
 {

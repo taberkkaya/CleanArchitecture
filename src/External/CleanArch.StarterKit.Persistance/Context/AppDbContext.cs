@@ -1,12 +1,14 @@
 ﻿using CleanArch.StarterKit.Domain.Abstractions;
 using CleanArch.StarterKit.Domain.Entities;
 using GenericRepository;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace CleanArch.StarterKit.Persistance.Context;
-public sealed class AppDbContext : DbContext, IUnitOfWork
+public sealed class AppDbContext : IdentityDbContext<User, IdentityRole<Guid>, Guid>, IUnitOfWork
 {
-    public AppDbContext(DbContextOptions options) : base(options) { }
+    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
     public DbSet<Example> Examples { get; set; }
     public DbSet<ErrorLog> ErrorLogs { get; set; }
@@ -14,6 +16,13 @@ public sealed class AppDbContext : DbContext, IUnitOfWork
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.ApplyConfigurationsFromAssembly(AssemblyReference.Assembly);
+
+        modelBuilder.Ignore<IdentityUserLogin<Guid>>();
+        modelBuilder.Ignore<IdentityUserRole<Guid>>();
+        modelBuilder.Ignore<IdentityUserClaim<Guid>>();
+        modelBuilder.Ignore<IdentityUserToken<Guid>>();
+        modelBuilder.Ignore<IdentityRoleClaim<Guid>>();
+        modelBuilder.Ignore<IdentityRole<Guid>>();
     }
 
     public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
@@ -36,7 +45,7 @@ public sealed class AppDbContext : DbContext, IUnitOfWork
                 entity.UpdatedBy = Guid.Empty;
             }
 
-            if(entry.State == EntityState.Deleted)
+            if (entry.State == EntityState.Deleted)
             {
                 entry.State = EntityState.Modified;
                 entity.IsDeleted = true;

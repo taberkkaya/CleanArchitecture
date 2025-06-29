@@ -43,7 +43,10 @@ public sealed class ExampleService : IExampleService
 
     public async Task<IList<Example>> GetAllAsync(GetAllExampleQuery request, CancellationToken cancellationToken)
     {
-        IList<Example> examples = await _exampleRepository.GetAll().ToListAsync(cancellationToken);
+        IList<Example> examples = 
+            await _exampleRepository
+            .GetAll()
+            .ToListAsync(cancellationToken);
         return examples;
     }
 }

@@ -148,3 +148,9 @@ C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin
 C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
 C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
 C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\GenericRepository.dll
+C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll

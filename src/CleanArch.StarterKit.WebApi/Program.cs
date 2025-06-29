@@ -1,5 +1,6 @@
 using CleanArch.StarterKit.Application.Behaviors;
 using CleanArch.StarterKit.Application.Services;
+using CleanArch.StarterKit.Domain.Entities;
 using CleanArch.StarterKit.Domain.Repositories;
 using CleanArch.StarterKit.Persistance.Context;
 using CleanArch.StarterKit.Persistance.Repositories;
@@ -8,17 +9,19 @@ using CleanArch.StarterKit.WebApi.Middleware;
 using FluentValidation;
 using GenericRepository;
 using MediatR;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddScoped<IExampleService,ExampleService>();
+builder.Services.AddScoped<IExampleService, ExampleService>();
 
 builder.Services.AddTransient<ExceptionMiddleware>();
 
 builder.Services.AddScoped<IUnitOfWork>(srv => srv.GetRequiredService<AppDbContext>());
 
-builder.Services.AddScoped<IExampleRepository,ExampleRepository>();
+builder.Services.AddScoped<IExampleRepository, ExampleRepository>();
 
 builder.Services.AddAutoMapper(typeof(CleanArch.StarterKit.Persistance.AssemblyReference).Assembly);
 
@@ -28,6 +31,10 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 {
     options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"));
 });
+
+builder.Services
+    .AddIdentity<User, IdentityRole<Guid>>()
+    .AddEntityFrameworkStores<AppDbContext>();
 
 builder.Services.AddMediatR(configuration =>
 {

@@ -9,5 +9,6 @@ public sealed class ExampleConfiguration : IEntityTypeConfiguration<Example>
     {
         builder.ToTable("Examples");
         builder.HasKey(e => e.Id);
+        builder.HasIndex(p => p.Value1);
     }
 }
