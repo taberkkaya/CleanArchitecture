@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using CleanArch.StarterKit.Application.Feature.Auth.Commands.Register;
 using CleanArch.StarterKit.Application.Feature.Examples.Commands.CreateExample;
 using CleanArch.StarterKit.Domain.Entities;
 
@@ -7,6 +8,7 @@ public sealed class MappingProfile : Profile
 {
     public MappingProfile()
     {
-        CreateMap<CreateExampleCommand, Example>().ReverseMap();
+        CreateMap<CreateExampleCommand, Example>();
+        CreateMap<RegisterCommand, User>();
     }
 }

@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "CleanArch.StarterKit.Presentation.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArch.StarterKit.Application.Feature.Auth.Commands.Register.RegisterCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CleanArch.StarterKit.Presentation.Controllers.ExamplesController",
     "Method": "Create",
     "RelativePath": "api/Examples/Create",

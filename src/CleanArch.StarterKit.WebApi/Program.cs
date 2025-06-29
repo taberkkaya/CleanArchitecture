@@ -11,11 +11,11 @@ using GenericRepository;
 using MediatR;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddScoped<IExampleService, ExampleService>();
+builder.Services.AddScoped<IAuthService, AuthService>();
 
 builder.Services.AddTransient<ExceptionMiddleware>();
 
@@ -33,7 +33,15 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 });
 
 builder.Services
-    .AddIdentity<User, IdentityRole<Guid>>()
+    .AddIdentity<User, IdentityRole<Guid>>(options =>
+    {
+        options.Password.RequireDigit = true;
+        options.Password.RequiredLength = 6;
+        options.Password.RequireLowercase = true;
+        options.Password.RequireUppercase = true;
+        options.Password.RequireNonAlphanumeric = false;
+        options.User.RequireUniqueEmail = true;
+    })
     .AddEntityFrameworkStores<AppDbContext>();
 
 builder.Services.AddMediatR(configuration =>
