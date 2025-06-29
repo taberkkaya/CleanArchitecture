@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\ProjectCollection\\CleanArch.StarterKit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0EC090A2-7227-4F9B-992A-1F7E36A57F14}|src\\Core\\CleanArch.StarterKit.Application\\CleanArch.StarterKit.Application.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\core\\cleanarch.starterkit.application\\feature\\auth\\commands\\register\\registercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC090A2-7227-4F9B-992A-1F7E36A57F14}|src\\Core\\CleanArch.StarterKit.Application\\CleanArch.StarterKit.Application.csproj|solutionrelative:src\\core\\cleanarch.starterkit.application\\feature\\auth\\commands\\register\\registercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3EED5A0-69E0-4058-82AE-C88725C23E49}|src\\External\\CleanArch.StarterKit.Presentation\\CleanArch.StarterKit.Presentation.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\external\\cleanarch.starterkit.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3EED5A0-69E0-4058-82AE-C88725C23E49}|src\\External\\CleanArch.StarterKit.Presentation\\CleanArch.StarterKit.Presentation.csproj|solutionrelative:src\\external\\cleanarch.starterkit.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegisterCommandValidator.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\Core\\CleanArch.StarterKit.Application\\Feature\\Auth\\Commands\\Register\\RegisterCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArch.StarterKit.Application\\Feature\\Auth\\Commands\\Register\\RegisterCommandValidator.cs",
+              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\Core\\CleanArch.StarterKit.Application\\Feature\\Auth\\Commands\\Register\\RegisterCommandValidator.cs",
+              "RelativeToolTip": "src\\Core\\CleanArch.StarterKit.Application\\Feature\\Auth\\Commands\\Register\\RegisterCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:08:30.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Presentation\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "src\\External\\CleanArch.StarterKit.Presentation\\Controllers\\AuthController.cs",

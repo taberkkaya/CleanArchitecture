@@ -1,3 +1,9 @@
+## ⚠️ Project Discontinued
+
+**Important:** This repository is no longer actively maintained. The instructor of the course where this project originated has removed their custom NuGet packages, which makes it impractical to continue development or complete the remaining course modules.
+
+The source code will remain available for reference purposes.
+
 # Clean Architecture Course Project
 
 This repository contains the source code developed during the Clean Architecture course by Taner Saydam on Udemy.  
