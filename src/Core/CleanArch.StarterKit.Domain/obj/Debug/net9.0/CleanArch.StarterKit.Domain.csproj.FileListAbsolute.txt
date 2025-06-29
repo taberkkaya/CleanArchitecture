@@ -10,3 +10,4 @@ C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\o
 C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\obj\Debug\net9.0\CleanArch.StarterKit.Domain.pdb
 C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\obj\Debug\net9.0\ref\CleanArch.StarterKit.Domain.dll
 C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\obj\Debug\net9.0\CleanArch.StarterKit.Domain.sourcelink.json
+C:\ProjectCollection\CleanArch.StarterKit\src\Core\CleanArch.StarterKit.Domain\obj\Debug\net9.0\CleanArch.StarterKit.Domain.csproj.AssemblyReference.cache

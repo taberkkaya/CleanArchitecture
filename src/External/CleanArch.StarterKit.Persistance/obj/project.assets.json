@@ -2039,6 +2039,18 @@
           }
         }
       },
+      "TS.EntityFrameworkCore.GenericRepository/9.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.0"
+        },
+        "compile": {
+          "lib/net9.0/GenericRepository.dll": {}
+        },
+        "runtime": {
+          "lib/net9.0/GenericRepository.dll": {}
+        }
+      },
       "CleanArch.StarterKit.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -2057,6 +2069,9 @@
       "CleanArch.StarterKit.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "TS.EntityFrameworkCore.GenericRepository": "9.0.1"
+        },
         "compile": {
           "bin/placeholder/CleanArch.StarterKit.Domain.dll": {}
         },
@@ -5554,6 +5569,20 @@
         "system.windows.extensions.6.0.0.nupkg.sha512",
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
+      ]
+    },
+    "TS.EntityFrameworkCore.GenericRepository/9.0.1": {
+      "sha512": "4tu3oiFJwTruet+mIdmuy3ibHFLcrsUw1U76CP70urdU34XkC87b1gaomsFa9oW8IcA/87bFKQ5HjMaKLNnWFA==",
+      "type": "package",
+      "path": "ts.entityframeworkcore.genericrepository/9.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net9.0/GenericRepository.dll",
+        "logo.jpg",
+        "ts.entityframeworkcore.genericrepository.9.0.1.nupkg.sha512",
+        "ts.entityframeworkcore.genericrepository.nuspec"
       ]
     },
     "CleanArch.StarterKit.Application/1.0.0": {

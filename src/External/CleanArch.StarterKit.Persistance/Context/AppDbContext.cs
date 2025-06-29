@@ -1,9 +1,10 @@
 ﻿using CleanArch.StarterKit.Domain.Abstractions;
 using CleanArch.StarterKit.Domain.Entities;
+using GenericRepository;
 using Microsoft.EntityFrameworkCore;
 
 namespace CleanArch.StarterKit.Persistance.Context;
-public sealed class AppDbContext : DbContext
+public sealed class AppDbContext : DbContext, IUnitOfWork
 {
     public AppDbContext(DbContextOptions options) : base(options) { }
 

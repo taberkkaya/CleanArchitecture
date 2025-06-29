@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArch.StarterKit.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+476b2ed8f1859a57a28d15b30ed9da3dfe8517fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acf96604231b2ad310eb501af1efd3565d9eabb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArch.StarterKit.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArch.StarterKit.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

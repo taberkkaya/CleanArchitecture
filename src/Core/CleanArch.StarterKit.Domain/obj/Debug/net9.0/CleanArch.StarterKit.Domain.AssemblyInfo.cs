@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArch.StarterKit.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6522665f219425adbae306b5d8406b8ffbf5df86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acf96604231b2ad310eb501af1efd3565d9eabb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArch.StarterKit.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArch.StarterKit.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

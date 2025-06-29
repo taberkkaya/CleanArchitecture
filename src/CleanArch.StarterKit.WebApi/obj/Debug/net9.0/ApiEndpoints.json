@@ -1,16 +1,6 @@
 [
   {
     "ContainingType": "CleanArch.StarterKit.Presentation.Controllers.ExamplesController",
-    "Method": "Calculate",
-    "RelativePath": "api/Examples/Calculate",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CleanArch.StarterKit.Presentation.Controllers.ExamplesController",
     "Method": "Create",
     "RelativePath": "api/Examples/Create",
     "HttpMethod": "POST",
@@ -20,6 +10,22 @@
       {
         "Name": "request",
         "Type": "CleanArch.StarterKit.Application.Feature.Examples.Commands.CreateExample.CreateExampleCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArch.StarterKit.Presentation.Controllers.ExamplesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Examples/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArch.StarterKit.Application.Feature.Examples.Queries.GetAllExample.GetAllExampleQuery",
         "IsRequired": true
       }
     ],

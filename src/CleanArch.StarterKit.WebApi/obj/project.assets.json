@@ -2178,6 +2178,18 @@
           }
         }
       },
+      "TS.EntityFrameworkCore.GenericRepository/9.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.0"
+        },
+        "compile": {
+          "lib/net9.0/GenericRepository.dll": {}
+        },
+        "runtime": {
+          "lib/net9.0/GenericRepository.dll": {}
+        }
+      },
       "CleanArch.StarterKit.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -2196,6 +2208,9 @@
       "CleanArch.StarterKit.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "TS.EntityFrameworkCore.GenericRepository": "9.0.1"
+        },
         "compile": {
           "bin/placeholder/CleanArch.StarterKit.Domain.dll": {}
         },
@@ -5955,6 +5970,20 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "TS.EntityFrameworkCore.GenericRepository/9.0.1": {
+      "sha512": "4tu3oiFJwTruet+mIdmuy3ibHFLcrsUw1U76CP70urdU34XkC87b1gaomsFa9oW8IcA/87bFKQ5HjMaKLNnWFA==",
+      "type": "package",
+      "path": "ts.entityframeworkcore.genericrepository/9.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net9.0/GenericRepository.dll",
+        "logo.jpg",
+        "ts.entityframeworkcore.genericrepository.9.0.1.nupkg.sha512",
+        "ts.entityframeworkcore.genericrepository.nuspec"
+      ]
+    },
     "CleanArch.StarterKit.Application/1.0.0": {
       "type": "project",
       "path": "../Core/CleanArch.StarterKit.Application/CleanArch.StarterKit.Application.csproj",
@@ -5988,7 +6017,8 @@
       "MediatR >= 12.5.0",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.6",
       "Newtonsoft.Json >= 13.0.1",
-      "Swashbuckle.AspNetCore >= 9.0.1"
+      "Swashbuckle.AspNetCore >= 9.0.1",
+      "TS.EntityFrameworkCore.GenericRepository >= 9.0.1"
     ]
   },
   "packageFolders": {
@@ -6083,6 +6113,10 @@
             "version": "[13.0.1, )"
           },
           "Swashbuckle.AspNetCore": {
+            "target": "Package",
+            "version": "[9.0.1, )"
+          },
+          "TS.EntityFrameworkCore.GenericRepository": {
             "target": "Package",
             "version": "[9.0.1, )"
           }

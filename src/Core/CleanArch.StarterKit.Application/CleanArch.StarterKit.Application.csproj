@@ -12,10 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Feature\Examples\Queries\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CleanArch.StarterKit.Domain\CleanArch.StarterKit.Domain.csproj" />
   </ItemGroup>
 

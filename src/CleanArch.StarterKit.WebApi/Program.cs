@@ -1,9 +1,12 @@
 using CleanArch.StarterKit.Application.Behaviors;
 using CleanArch.StarterKit.Application.Services;
+using CleanArch.StarterKit.Domain.Repositories;
 using CleanArch.StarterKit.Persistance.Context;
+using CleanArch.StarterKit.Persistance.Repositories;
 using CleanArch.StarterKit.Persistance.Services;
 using CleanArch.StarterKit.WebApi.Middleware;
 using FluentValidation;
+using GenericRepository;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,6 +15,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<IExampleService,ExampleService>();
 
 builder.Services.AddTransient<ExceptionMiddleware>();
+
+builder.Services.AddScoped<IUnitOfWork>(srv => srv.GetRequiredService<AppDbContext>());
+
+builder.Services.AddScoped<IExampleRepository,ExampleRepository>();
 
 builder.Services.AddAutoMapper(typeof(CleanArch.StarterKit.Persistance.AssemblyReference).Assembly);
 

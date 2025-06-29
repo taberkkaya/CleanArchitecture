@@ -1,4 +1,5 @@
 ﻿using CleanArch.StarterKit.Application.Feature.Examples.Commands.CreateExample;
+using CleanArch.StarterKit.Application.Feature.Examples.Queries.GetAllExample;
 using CleanArch.StarterKit.Presentation.Abstractions;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -12,6 +13,13 @@ public class ExamplesController : ApiController
 
     [HttpPost("[action]")]
     public async Task<IActionResult> Create(CreateExampleCommand request, CancellationToken cancellationToken)
+    {
+        var response = await _mediator.Send(request, cancellationToken);
+        return Ok(response);
+    }
+
+    [HttpPost("[action]")]
+    public async Task<IActionResult> GetAll(GetAllExampleQuery request, CancellationToken cancellationToken)
     {
         var response = await _mediator.Send(request, cancellationToken);
         return Ok(response);

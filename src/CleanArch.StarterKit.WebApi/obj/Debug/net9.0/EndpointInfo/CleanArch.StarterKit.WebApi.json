@@ -36,11 +36,30 @@
         }
       }
     },
-    "/api/Examples/Calculate": {
-      "get": {
+    "/api/Examples/GetAll": {
+      "post": {
         "tags": [
           "Examples"
         ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GetAllExampleQuery"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GetAllExampleQuery"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/GetAllExampleQuery"
+              }
+            }
+          }
+        },
         "responses": {
           "200": {
             "description": "OK"
@@ -66,6 +85,10 @@
             "type": "boolean"
           }
         },
+        "additionalProperties": false
+      },
+      "GetAllExampleQuery": {
+        "type": "object",
         "additionalProperties": false
       }
     }

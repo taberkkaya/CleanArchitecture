@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\ProjectCollection\\CleanArch.StarterKit\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D66E84E-E6AE-4BEE-8670-2E5C7E783E01}|src\\CleanArch.StarterKit.WebApi\\CleanArch.StarterKit.WebApi.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\cleanarch.starterkit.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D66E84E-E6AE-4BEE-8670-2E5C7E783E01}|src\\CleanArch.StarterKit.WebApi\\CleanArch.StarterKit.WebApi.csproj|solutionrelative:src\\cleanarch.starterkit.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7364E4C-65E9-418D-A944-55D893D65527}|src\\External\\CleanArch.StarterKit.Persistance\\CleanArch.StarterKit.Persistance.csproj|c:\\projectcollection\\cleanarch.starterkit\\src\\external\\cleanarch.starterkit.persistance\\repositories\\examplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7364E4C-65E9-418D-A944-55D893D65527}|src\\External\\CleanArch.StarterKit.Persistance\\CleanArch.StarterKit.Persistance.csproj|solutionrelative:src\\external\\cleanarch.starterkit.persistance\\repositories\\examplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\CleanArch.StarterKit.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CleanArch.StarterKit.WebApi\\Program.cs",
+              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\CleanArch.StarterKit.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\CleanArch.StarterKit.WebApi\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:18:09.893Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExampleRepository.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Repositories\\ExampleRepository.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArch.StarterKit.Persistance\\Repositories\\ExampleRepository.cs",
+              "ToolTip": "C:\\ProjectCollection\\CleanArch.StarterKit\\src\\External\\CleanArch.StarterKit.Persistance\\Repositories\\ExampleRepository.cs",
+              "RelativeToolTip": "src\\External\\CleanArch.StarterKit.Persistance\\Repositories\\ExampleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:18:23.966Z",
+              "EditorCaption": ""
             }
           ]
         }

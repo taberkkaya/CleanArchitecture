@@ -94,6 +94,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[9.0.1, )"
+            },
+            "TS.EntityFrameworkCore.GenericRepository": {
+              "target": "Package",
+              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -244,6 +248,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "TS.EntityFrameworkCore.GenericRepository": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -142,3 +142,9 @@ C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin
 C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\CleanArch.StarterKit.Presentation.pdb
 C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\CleanArch.StarterKit.Domain.pdb
 C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\obj\Debug\net9.0\CleanArch.StarterKit.UnitTest.sourcelink.json
+C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\ProjectCollection\CleanArch.StarterKit\test\CleanArch.StarterKit.UnitTest\bin\Debug\net9.0\GenericRepository.dll
